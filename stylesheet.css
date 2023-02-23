@@ -23,8 +23,6 @@ img {
 	  display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 200%
-  width: 200%
 }
 
 
@@ -125,8 +123,7 @@ p {
   height: 100%;
 }
 
-#watermark
-{
+.watermark {
  position:fixed;
  bottom:5px;
  right:5px;
